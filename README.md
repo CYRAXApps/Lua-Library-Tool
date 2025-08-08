@@ -1,4 +1,6 @@
 # Lua Library Tool
+[![LayoutEditor](https://img.shields.io/badge/Layout-Editor-blue?style=for-the-badge)](https://github.com/itsvks19/LayoutEditor/releases/latest)
+
 
 # Preview
 
