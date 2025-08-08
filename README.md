@@ -10,5 +10,5 @@ This is the original Lua Library Tool. It is developed by CYRAX GAMING. It was p
 
 Official handle 👇🏻
 
-Telegram Channel: https://t.me/CYRAXApps
 GitHub: https://github.com/CYRAXApp
+Telegram: https://t.me/CYRAXApps
