@@ -4,7 +4,7 @@
 <div>
 
 <img width="460" height="260" src="Preview.jpg" alt="Preview_01" title="Preview_01">
-<div
+<div></div>
 
 # What's New
 New Version 1.60 - Lua Library Tool This is the last updated version.
