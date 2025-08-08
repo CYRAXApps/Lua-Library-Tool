@@ -1,7 +1,11 @@
 # Lua Library Tool
 
 # Preview
+<div align="center">
 
+<img width="460" height="260" src="Preview.jpg" alt="Preview_01" title="Preview_01">
+<div
+  
 New Version 1.60 - Lua Library Tool This is the last updated version.
 
 The ability to create LUA scripts for games such as: PUBG Mobile, Free Fire, Call of Duty
