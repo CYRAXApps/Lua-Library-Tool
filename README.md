@@ -1,5 +1,5 @@
 # Lua Library Tool
-[![LayoutEditor](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/Lua-Library-Tool/releases/tag/Lua-Library-Tool)
+[![Lua-Librery-Tool](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/Lua-Library-Tool/releases/tag/Lua-Library-Tool)
 
 # Preview 
 
