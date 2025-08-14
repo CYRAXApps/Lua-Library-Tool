@@ -1,7 +1,7 @@
 ## Lua Library Tool
 [![Lua-Librery-Tool](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/Lua-Library-Tool/releases/tag/Lua-Library-Tool)
 
-### Preview 
+### Preview
 
 <div>
 <img width="460" height="260" src="Preview.jpg" alt="Preview_01" title="Preview_01">
